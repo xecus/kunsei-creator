@@ -11,6 +11,10 @@ Webカメラで温度計を撮影し、VLM（Vision Language Model）で温度�
 - Raspberry PiのGPIO経由で電気コンロのON/OFF制御
 - MCPサーバーとして動作し、外部から制御可能
 
+## システムイメージ
+
+![温度計読み取りシステム](docs/20251201000414.jpg)
+
 ## 機能
 
 ### MCPツール

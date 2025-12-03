@@ -9,6 +9,10 @@ captured_image_*.jpg
 *.jpg
 *.png
 
+# Allow documentation images
+!docs/**/*.jpg
+!docs/**/*.png
+
 # Python
 __pycache__/
 *.py[cod]
